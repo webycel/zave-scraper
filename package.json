@@ -1,0 +1,16 @@
+{
+  "name": "zave-scraper",
+  "version": "1.0.0",
+  "description": "Scrape a product website for product information",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Weber",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "require": "^2.4.20",
+    "underscore": "^1.8.3"
+  }
+}
